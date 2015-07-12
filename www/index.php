@@ -44,6 +44,10 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
 <a href="http://r-forge.r-project.org/"><img src="https://r-forge.r-project.org/themes/rforge/imagesrf/logo.png" border="0" alt="R-Forge Logo" /> </a> </td> </tr>
 </table>
 
+<hr />
+<h1><font color="red">This page is no longer up-to-date, visit <a href="http://datacloning.org">datacloning.org</a> instead</font></h1>
+<hr />
+
 
 <!-- get project title  -->
 <!-- own website starts here, the following may be changed as you like -->
